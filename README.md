@@ -27,21 +27,21 @@ located in Chandpur, Bangladesh.
 
 <p align="center">
   <a href="https://github.com/shakibalfurkan">
-    <img height="70" src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/github.svg" />
+    <img height="60" src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/github.svg" />
   </a>
   <a href="https://www.instagram.com/shakibalfurkan">
-    <img height="70" src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/instagram.svg" />
+    <img height="60" src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/instagram.svg" />
   </a>
   <a href="https://www.facebook.com/shakibalfurkan">
-    <img height="70" src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/facebook.svg" />
+    <img height="60" src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/facebook.svg" />
   </a>
   <a href="https://www.twitter.com/shakibalfurkan">
-    <img height="70" src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/twitter.svg" />
+    <img height="60" src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/shakibalfurkan">
-    <img height="70" src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/linkedIn.svg" />
+    <img height="60" src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/linkedIn.svg" />
   </a>
   <a href="mailto:shakibalfurkan@gmail.com">
-    <img height="70" src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/gmail.svg" />
+    <img height="60" src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/gmail.svg" />
   </a>
 </p>
