@@ -25,4 +25,23 @@ located in Chandpur, Bangladesh.
  https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
   -->
 
-<!-- [<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_) -->
+<p align="center">
+  <a href="https://github.com/shakibalfurkan">
+    <img src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/github.svg" />
+  </a>
+  <a href="https://www.instagram.com/shakibalfurkan">
+    <img src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/instagram.svg" />
+  </a>
+  <a href="https://www.facebook.com/shakibalfurkan">
+    <img src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/facebook.svg" />
+  </a>
+  <a href="https://www.twitter.com/shakibalfurkan">
+    <img src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/shakibalfurkan">
+    <img src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/linkedIn.svg" />
+  </a>
+  <a href="mailto:shakibalfurkan@gmail.com">
+    <img src="https://github.com/shakibalfurkan/shakibalfurkan/blob/main/images/icons/social/gmail.svg" />
+  </a>
+</p>
