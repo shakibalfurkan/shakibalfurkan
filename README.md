@@ -47,7 +47,7 @@ located in Bangladesh.
 
 > Tools, languages, and technologies that fuel my passion for coding!
 
-#### Languages
+#### Programming Languages
 
 <table>
   <tr>
@@ -62,7 +62,7 @@ located in Bangladesh.
   </tr>
 </table>
 
-#### Libraries and Frameworks
+#### Technologies
 
 <table>
   <tr>
@@ -95,20 +95,16 @@ located in Bangladesh.
       <br>Sass
     </td>
     <td align="center" width="98">
-        <img src="./images/icons/skill/HTML.svg" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="98">
         <img src="./images/icons/skill/tanstack-query.svg" width="48" height="48" alt="tanstack-query" />
       <br>T. Query
-    </td>
-    <td align="center" width="98">
+    </td>    
+  </tr>
+
+  <tr>       
+  <td align="center" width="98">
         <img src="./images/icons/skill/Firebase.svg" width="48" height="48" alt="Firebase" />
       <br>Firebase
-    </td>
+    </td> 
     <td align="center" width="98">
         <img src="./images/icons/skill/Vite.svg" width="48" height="48" alt="Vite" />
       <br>Vite
@@ -133,26 +129,22 @@ located in Bangladesh.
         <img src="./images/icons/skill/ExpressJS.svg" width="48" height="48" alt="ExpressJS" />
       <br>ExpressJS
     </td>
-  </tr>
-
-  <tr>    
     <td align="center" width="98">
         <img src="./images/icons/skill/MongoDB.svg" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
-    </td>
-    <td align="center" width="98">
+    </td>      
+  </tr>
+  <tr>
+  <td align="center" width="98">
         <img src="./images/icons/skill/PostgreSQL.svg" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="98">
         <img src="./images/icons/skill/Prisma.svg" width="48" height="48" alt="Prisma" />
       <br>Prisma
-    </td>
-    <td align="center" width="98">
-        <img src="./images/icons/skill/restapi.svg" width="48" height="48" alt="restapi" />
-      <br>RestAPI
-    </td>
+    </td> 
   </tr>
+
 </table>
 
 #### Tools
