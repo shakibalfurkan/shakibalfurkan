@@ -43,6 +43,8 @@ located in Bangladesh.
   <img width="44%" src="https://github-readme-stats.vercel.app/api?username=shakibalfurkan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1CF7&icon_color=00F0FF&&text_color=FFF" />
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shakibalfurkan)](https://git.io/streak-stats)
+
 ## 💻 Tech Stack
 
 > Tools, languages, and technologies that fuel my passion for coding!
@@ -196,8 +198,8 @@ located in Bangladesh.
 
 ## 👀 Current overview
 
-<div style="display: flex; align-items: flex-start; margin: 10px;">
-  <div style="flex: 1; margin-right: 30px;">
+<div style="display: flex; align-items: flex-start; margin: 10px; width: 100%;">
+  <div style="flex: 1; margin-right: 30px; min-width: 0;">
     <ul style="border: none; padding-left: 20px; margin-top: 0;">
       <li>👋 Currently working on web development and exploring innovative tech solutions</li>
       <li>🌱 Currently learning Docker, Kubernetes, AWS, GSAP, Advance Animations and more</li>
@@ -208,8 +210,7 @@ located in Bangladesh.
       <li>🌟 Turning innovative ideas into reality, one line of code at a time</li>
     </ul>
   </div>
-  <!-- use the compact version if needed -->
-  <div style="flex: 1;">
+  <div style="flex: 1; min-width: 0;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibalfurkan&stats_format=bytes&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=FFF" alt="Top Languages" />
   </div>
 </div>
