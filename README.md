@@ -2,22 +2,10 @@
 
 <!-- there will be a banner  -->
 
-## About Me
-
 I am a Web Developer passionate about creating innovative digital solutions. I
 love to contribute to cutting-edge projects and explore emerging technologies. I
 am dedicated to continuous learning and helping the tech community grow. I am
 located in Bangladesh.
-
-- 👋 Currently working on web development and exploring innovative tech
-  solutions
-- 🌱 Currently learning Docker, Kubernetes, AWS, GSAP, Advance Animations and
-  more
-- 📚 Perpetual knowledge seeker, always staying ahead of tech trends
-- 💡 Transforming complex challenges into elegant code
-- 🚀 Actively expanding skill set across different development domains
-- 🤝 Open to exciting opportunities and collaborative tech projects
-- 🌟 Turning innovative ideas into reality, one line of code at a time
 
 ## 📫 Reach me out
 
@@ -28,31 +16,38 @@ located in Bangladesh.
 > Explore my [portfolio](demo) and join me on this exciting tech journey!
 
 <p align="left">
-  <a href="https://github.com/shakibalfurkan" target="_blank" style="margin: 0 15px;">
-    <img height="50" src="./images/icons/social/github.svg" alt="GitHub" />
+  <a href="https://github.com/shakibalfurkan" target="_blank">
+    <img height="48" src="./images/icons/social/github.svg" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/shakibalfurkan" target="_blank" style="margin: 0 15px;">
-    <img height="50" src="./images/icons/social/instagram.svg" alt="Instagram"/>
+  <a href="https://www.instagram.com/shakibalfurkan" target="_blank">
+    <img height="48" src="./images/icons/social/instagram.svg" alt="Instagram"/>
   </a>
-  <a href="https://www.facebook.com/shakibalfurkan" target="_blank" style="margin: 0 15px;">
-    <img height="50" src="./images/icons/social/facebook.svg" alt="Facebook"/>
+  <a href="https://www.facebook.com/shakibalfurkan" target="_blank">
+    <img height="48" src="./images/icons/social/facebook.svg" alt="Facebook"/>
   </a>
-  <a href="https://www.twitter.com/shakibalfurkan" target="_blank" style="margin: 0 15px;">
-    <img height="50" src="./images/icons/social/twitter.svg" alt="Twitter" />
+  <a href="https://x.com/shakibalfurkan" target="_blank">
+    <img height="48" src="./images/icons/social/twitter.svg" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/shakibalfurkan" target="_blank" style="margin: 0 15px;">
-    <img height="50" src="./images/icons/social/linkedIn.svg" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/shakibalfurkan" target="_blank">
+    <img height="48" src="./images/icons/social/linkedIn.svg" alt="LinkedIn" />
   </a>
-  <a href="mailto:shakibalfurkan@gmail.com" target="_blank" style="margin: 0 15px;">
-    <img height="50" src="./images/icons/social/gmail.svg" alt="Gmail"/>
+  <a href="mailto:shakibalfurkan@gmail.com" target="_blank">
+    <img height="48" src="./images/icons/social/gmail.svg" alt="Gmail"/>
   </a>
+</p>
+
+## 📈 Current Stats
+
+<p>
+  <img width="46.6%" src="https://github-readme-streak-stats.herokuapp.com?user=shakibalfurkan&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=shakibalfurkan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1CF7&icon_color=00F0FF&&text_color=FFF" />
 </p>
 
 ## 💻 Tech Stack
 
 > Tools, languages, and technologies that fuel my passion for coding!
 
-### Programming Languages
+#### Programming Languages
 
 <table>
   <tr>
@@ -67,7 +62,7 @@ located in Bangladesh.
   </tr>
 </table>
 
-### Libraries and Frameworks
+#### Libraries and Frameworks
 
 <table>
   <tr>
@@ -160,7 +155,7 @@ located in Bangladesh.
   </tr>
 </table>
 
-### Tools
+#### Tools
 
 <table>
   <tr>
@@ -179,22 +174,42 @@ located in Bangladesh.
    <td align="center" width="98">
         <img src="./images/icons/skill/Figma.svg" width="48" height="48" alt="Figma" />
       <br>Figma
-    </td>
+    </td>      
    <td align="center" width="98">
-        <img src="./images/icons/skill/Vercel.svg" width="48" height="48" alt="Vercel" />
-      <br>Vercel
-    </td>
-   <td align="center" width="98">
-        <img src="./images/icons/skill/Bash.svg" width="48" height="48" alt="Bash" />
-      <br>Bash
-    </td>
+        <img src="./images/icons/skill/Git.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>   
    <td align="center" width="98">
         <img src="./images/icons/skill/github.svg" width="48" height="48" alt="github" />
       <br>Github
+    </td>   
+    <td align="center" width="98">
+        <img src="./images/icons/skill/Bash.svg" width="48" height="48" alt="Bash" />
+      <br>Bash
     </td>
-   <td align="center" width="98">
-        <img src="./images/icons/skill/Netlify.svg" width="48" height="48" alt="Netlify" />
-      <br>Netlify
+    <td align="center" width="98">
+        <img src="./images/icons/skill/Vercel.svg" width="48" height="48" alt="Vercel" />
+      <br>Vercel
     </td>
   </tr>
 </table>
+
+## 👀 Current overview
+
+<div style="display: flex; align-items: flex-start; margin: 10px;">
+  <div style="flex: 1; margin-right: 30px;">
+    <ul style="border: none; padding-left: 20px; margin-top: 0;">
+      <li>👋 Currently working on web development and exploring innovative tech solutions</li>
+      <li>🌱 Currently learning Docker, Kubernetes, AWS, GSAP, Advance Animations and more</li>
+      <li>📚 Perpetual knowledge seeker, always staying ahead of tech trends</li>
+      <li>💡 Transforming complex challenges into elegant code</li>
+      <li>🚀 Actively expanding skill set across different development domains</li>
+      <li>🤝 Open to exciting opportunities and collaborative tech projects</li>
+      <li>🌟 Turning innovative ideas into reality, one line of code at a time</li>
+    </ul>
+  </div>
+  <!-- use the compact version if needed -->
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibalfurkan&stats_format=bytes&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=FFF" alt="Top Languages" />
+  </div>
+</div>
