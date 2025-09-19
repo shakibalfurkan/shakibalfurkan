@@ -47,7 +47,7 @@ located in Bangladesh.
 
 > Tools, languages, and technologies that fuel my passion for coding!
 
-#### Programming Languages
+#### Languages
 
 <table>
   <tr>
