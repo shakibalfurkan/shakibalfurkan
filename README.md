@@ -114,14 +114,6 @@ located in Bangladesh.
       <br>GraphQL
     </td>
     <td align="center" width="98">
-        <img src="./images/icons/skill/Vitest.svg" width="48" height="48" alt="Vitest" />
-      <br>Vitest
-    </td>
-    <td align="center" width="98">
-        <img src="./images/icons/skill/react-testing-library.svg" width="48" height="48" alt="react-testing-library" />
-      <br>RTL
-    </td>
-    <td align="center" width="98">
         <img src="./images/icons/skill/NodeJS.svg" width="48" height="48" alt="NodeJS" />
       <br>NodeJS
     </td>
@@ -132,17 +124,30 @@ located in Bangladesh.
     <td align="center" width="98">
         <img src="./images/icons/skill/MongoDB.svg" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
-    </td>      
-  </tr>
-  <tr>
-  <td align="center" width="98">
+    </td> 
+    <td align="center" width="98">
         <img src="./images/icons/skill/PostgreSQL.svg" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="98">
         <img src="./images/icons/skill/Prisma.svg" width="48" height="48" alt="Prisma" />
       <br>Prisma
-    </td> 
+    </td>      
+  </tr>
+  <tr> 
+  <td align="center" width="98">
+        <img src="./images/icons/skill/react-testing-library.svg" width="48" height="48" alt="react-testing-library" />
+      <br>RTL
+    </td>
+  <td align="center" width="98">
+        <img src="./images/icons/skill/Vitest.svg" width="48" height="48" alt="Vitest" />
+      <br>Vitest
+    </td>
+  <td align="center" width="98">
+        <img src="./images/icons/skill/Jest.svg" width="48" height="48" alt="Vitest" />
+      <br>Jest
+    </td>
+   
   </tr>
 
 </table>
