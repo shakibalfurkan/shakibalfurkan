@@ -110,10 +110,6 @@ located in Bangladesh.
       <br>Vite
     </td>
     <td align="center" width="98">
-        <img src="./images/icons/skill/GraphQL.svg" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="98">
         <img src="./images/icons/skill/NodeJS.svg" width="48" height="48" alt="NodeJS" />
       <br>NodeJS
     </td>
@@ -132,6 +128,10 @@ located in Bangladesh.
     <td align="center" width="98">
         <img src="./images/icons/skill/Prisma.svg" width="48" height="48" alt="Prisma" />
       <br>Prisma
+    </td>
+    <td align="center" width="98">
+        <img src="./images/icons/skill/GraphQL.svg" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
     </td>      
   </tr>
   <tr> 
