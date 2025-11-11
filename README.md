@@ -68,7 +68,7 @@ located in Bangladesh.
   <tr>
     <td align="center" width="98">
         <img src="./images/icons/skill/React.svg" width="48" height="48" alt="React" />
-      <br>React
+      <br>React.js
     </td>
     <td align="center" width="98">
         <img src="./images/icons/skill/NextJS.svg" width="48" height="48" alt="NextJS" />
@@ -116,14 +116,6 @@ located in Bangladesh.
       <br>ExpressJS
     </td>
     <td align="center" width="98">
-        <img src="./images/icons/skill/MongoDB.svg" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td> 
-    <td align="center" width="98">
-        <img src="./images/icons/skill/PostgreSQL.svg" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="98">
         <img src="./images/icons/skill/Prisma.svg" width="48" height="48" alt="Prisma" />
       <br>Prisma
     </td>
@@ -133,6 +125,21 @@ located in Bangladesh.
     </td>      
   </tr>
   </table>
+
+#### Database
+
+<table>
+  <tr> 
+    <td align="center" width="98">
+        <img src="./images/icons/skill/MongoDB.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td> 
+    <td align="center" width="98">
+        <img src="./images/icons/skill/PostgreSQL.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+     </td>
+  </tr>
+</table>
 
 #### DevOps & Deployment
 
