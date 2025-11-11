@@ -62,7 +62,7 @@ located in Bangladesh.
   </tr>
 </table>
 
-#### Technologies
+#### Frontend
 
 <table>
   <tr>
@@ -91,24 +91,22 @@ located in Bangladesh.
       <br>Bootstrap
     </td>
     <td align="center" width="98">
-        <img src="./images/icons/skill/Sass.svg" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-    <td align="center" width="98">
         <img src="./images/icons/skill/tanstack-query.svg" width="48" height="48" alt="tanstack-query" />
       <br>T. Query
     </td>    
-  </tr>
-
-  <tr>       
-  <td align="center" width="98">
+    <td align="center" width="98">
         <img src="./images/icons/skill/Firebase.svg" width="48" height="48" alt="Firebase" />
       <br>Firebase
     </td> 
-    <td align="center" width="98">
-        <img src="./images/icons/skill/Vite.svg" width="48" height="48" alt="Vite" />
-      <br>Vite
-    </td>
+  </tr>
+
+  </table>
+
+#### Backend
+
+  <table>
+
+  <tr>       
     <td align="center" width="98">
         <img src="./images/icons/skill/NodeJS.svg" width="48" height="48" alt="NodeJS" />
       <br>NodeJS
@@ -134,6 +132,23 @@ located in Bangladesh.
       <br>GraphQL
     </td>      
   </tr>
+  </table>
+
+#### DevOps & Deployment
+
+<table>
+  <tr> 
+    <td align="center" width="98">
+        <img src="./images/icons/skill/Docker.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+  
+  </tr>
+</table>
+
+#### Testing
+
+<table>
   <tr> 
   <td align="center" width="98">
         <img src="./images/icons/skill/react-testing-library.svg" width="48" height="48" alt="react-testing-library" />
@@ -146,10 +161,8 @@ located in Bangladesh.
   <td align="center" width="98">
         <img src="./images/icons/skill/Jest.svg" width="48" height="48" alt="Vitest" />
       <br>Jest
-    </td>
-   
+    </td> 
   </tr>
-
 </table>
 
 #### Tools
